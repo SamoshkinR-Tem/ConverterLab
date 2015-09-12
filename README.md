@@ -1,1 +1,2 @@
-# Thinkmobiles Android Course -- Final Project
+# Thinkmobiles Android Course
+Final Project
